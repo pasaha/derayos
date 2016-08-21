@@ -37,7 +37,7 @@ $data_carousel = array(
 <!-- Interactive panels carousel -->
 <div class="pm-column-container pm-containerPadding60">
 
- <div class="container" style="height: 277px">
+ <div class="container">
 		  <div class="row">
 		  
 			 <div class="col-lg-4 col-md-4 col-sm-4">
@@ -50,7 +50,7 @@ $data_carousel = array(
 				
 				</div>
 		  
-			 <div class="col-lg-8 col-md-8 col-sm-8">
+			 <div class="col-lg-8 col-md-8 col-sm-8" style="height: 277px">
 					 <ul class="pm-interactive-panels-carousel" id="pm-interactive-panels-owl">
 							<?php for($j = 0; $j < count($data_carousel); ++$j) { $item = $data_carousel[$j]; ?>
 								<li>

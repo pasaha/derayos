@@ -60,8 +60,8 @@
 }
 
 .pm-register-btn {
-	background-color:#dbc164;
-	border:1px solid #987e23;	
+	background-color:#0fa0d5;
+	border:1px solid #0fa0d5;	
 }
 
 .pm-login-btn {
@@ -71,7 +71,7 @@
 
 
 .pm-main-menu-btn i {
-	color:#DBC164;
+	color:#EA5818;
 	font-size:24px;
 }
 
@@ -110,8 +110,8 @@
 
 .pm-rounded-btn a:hover, .pm-rounded-btn.transparent a:hover {
 	color:white;
-	border:3px solid #2B5D83;
-	background-color:#2B5D83;
+	border:3px solid #0fa0d5;
+	background-color:#0fa0d5;
 }
 
 .pm-rounded-btn.transparent a {
@@ -122,8 +122,8 @@
 
 .pm-rounded-btn.transparent a:hover {
 	color:white;
-	border:3px solid #DBC164;
-	background-color:#DBC164;
+	border:3px solid #EA5818;
+	background-color:#EA5818;
 }
 
 .pm-rounded-btn a i {

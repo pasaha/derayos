@@ -30,12 +30,12 @@
 						</div>
 						
 						<div class="pm-presentation-post-excerpt">
-						 <p>Keep your posts private and confidential</p>
+						 <p>ЧТО ЭТО И ГДЕ ЭТО?</p>
 						</div>
 						
 						<div class="pm-presentation-post-hover-container">
 						 <!--<p class="pm-presentation-post-hover-title">protected posts</p>-->
-						  <p class="pm-presentation-post-hover-excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et placerat dui. In posuere metus et elit placerat tristique. Maecenas eu est in sem ullamcor <a href="#">[...]</a>
+						  <p class="pm-presentation-post-hover-excerpt">ЧТО ЭТО И ГДЕ ЭТО. Donec et placerat dui. In posuere metus et elit placerat tristique. Maecenas eu est in sem ullamcor <a href="#">[...]</a>
 </p>
 						  <a href="blog-single-post.html">Read More &raquo;</a>
 						</div>
@@ -62,7 +62,7 @@
 						</div><!-- /pm-presentation-post-date -->
 						
 						<div class="pm-presentation-post-title">
-						 <p>private members area</p>
+						 <p>ЧТО ЭТО И ГДЕ ЭТО</p>
 						</div>
 						
 						<div class="pm-presentation-post-excerpt">

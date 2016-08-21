@@ -5,9 +5,9 @@
 		 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
 		 <meta name="description" content="">
 		 <meta name="author" content="">
-		 <link rel="shortcut icon" href="favicon.png">
+		 <link rel="shortcut icon" href="/favicon.ico?1">
 	
-		 <title>QUANTUM :: Business HTML5 Template</title>
+		 <title><?php echo $layout['title'] ?></title>
 		 
 		 <link href="bootstrap3/css/bootstrap.css" rel="stylesheet">
 	
@@ -57,15 +57,10 @@
 	
 	  <body>
 	  
-	  <?php include 'templates/includes/color_selector.php'; ?>
+	  <?php// include 'templates/includes/color_selector.php'; ?>
 
 		<div id="pm_layout_wrapper" class="pm-full-mode"><!-- Use wrapper for wide or boxed mode -->
-			<?php // include 'templates/includes/pm-header-info.php'; ?>
-			<style>
-				header {
-					position: relative
-				}
-			</style>
+			<?php include 'templates/includes/pm-header-info.php'; ?>
 			<header>
 				<div class="container pm-header-container">
 						 <div class="row">
@@ -74,7 +69,7 @@
 								
 								<?php if ($layout && $layout['logo']){ ?>
 								<div class="pm-header-logo-container">
-									<a href="/"><img src="<?php echo $layout['logo'] ?>" class="img-responsive" alt="Quantum Theme"></a>
+									<a href="/"><img height="67" width="218" src="<?php echo $layout['logo'] ?>" class="img-responsive" alt="Quantum Theme"></a>
 								</div>
 								<?php } ?>
 								
@@ -91,7 +86,7 @@
 											<?php for($i = 0; $i < count($data_sections); ++$i) { ?>
 												<?php if ($data_sections[$i]['menu']){ ?>
 												<li>
-													 <a href="#<?php echo $data_sections[$i]['alias'] ?>"><?php echo $data_sections[$i]['menu'] ?></a>
+													 <a href="#block_<?php echo $i ?>"><?php echo $data_sections[$i]['menu'] ?></a>
 												</li>
 												<?php } ?>
 											<?php } ?>

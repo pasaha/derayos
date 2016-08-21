@@ -6,8 +6,8 @@
 		 <div class="row">
 		  
 			 <div class="col-lg-12">
-				 <h3>Для кого этот мастер-класс</h3>
-				 <h6>3 ТИПА УЧАСТНИКОВ</h6>
+				 <h3>Кому необходим этот мастер-класс</h3>
+				 <h6></h6>
 				</div>                	
 			 
 				<div class="col-lg-4 col-md-4 col-sm-4">
@@ -20,19 +20,12 @@
 								<div class="pm-staff-profile-image">
 									 <img src="img/home/01_bio_pic.jpg" class="img-responsive" alt="profile1">
 								</div>
-								
-								<ul class="pm-staff-profile-icons">
-									 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-									 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-									 <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-									 <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-								</ul>
 						  
-						  </div>                                
+						 </div>                                
 						  
 						  <div class="pm-staff-profile-details">
 								
-								<p class="pm-staff-profile-name">Bryan Johnson</p>
+								<p class="pm-staff-profile-name">Вы только ищете мужчину мечты</p>
 								<p class="pm-staff-profile-title">Lead Software Engineer</p>
 								
 								<p class="pm-staff-profile-bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et placerat dui. In posuere metus et elit placerat tristique. Maecenas eu est in sem ullamcorper tincidunt. </p>
@@ -54,19 +47,11 @@
 								<div class="pm-staff-profile-image">
 									 <img src="img/home/02_bio_pic.jpg" class="img-responsive" alt="profile2">
 								</div>
-								
-								<ul class="pm-staff-profile-icons">
-									 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-									 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-									 <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-									 <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-								</ul>
-						  
 						  </div>                                
 						  
 						  <div class="pm-staff-profile-details">
 								
-								<p class="pm-staff-profile-name">Christina Lewison</p>
+								<p class="pm-staff-profile-name">Вы недавно встретили мужчину мечты</p>
 								<p class="pm-staff-profile-title">Lead Software Designer</p>
 								
 								<p class="pm-staff-profile-bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et placerat dui. In posuere metus et elit placerat tristique. Maecenas eu est in sem ullamcorper tincidunt. </p>
@@ -88,19 +73,11 @@
 								<div class="pm-staff-profile-image">
 									 <img src="img/home/03_bio_pic.jpg" class="img-responsive" alt="profile3">
 								</div>
-								
-								<ul class="pm-staff-profile-icons">
-									 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-									 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-									 <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-									 <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-								</ul>
-						  
 						  </div>                                
 						  
 						  <div class="pm-staff-profile-details">
 								
-								<p class="pm-staff-profile-name">Lenny Davis</p>
+								<p class="pm-staff-profile-name">Вы давно в отношениях с ним, но</p>
 								<p class="pm-staff-profile-title">Front-end Developer</p>
 								
 								<p class="pm-staff-profile-bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et placerat dui. In posuere metus et elit placerat tristique. Maecenas eu est in sem ullamcorper tincidunt. </p>
@@ -117,5 +94,9 @@
 	 </div>
 
 </div>
-
+<style>
+.pm-staff-profile-name {
+	text-transform: none;
+}
+</style>
 <!-- Staff panel end -->

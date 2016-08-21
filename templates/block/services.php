@@ -1,5 +1,5 @@
 <!-- Services panels -->
-<div class="pm-column-container pm-containerPadding60 pm-mobile-center" style="background-color:#283e4e;">
+<div class="pm-column-container pm-containerPadding60 pm-mobile-center" style="background-color:#0fa0d5;">
 
  <div class="container">
 		  <div class="row">
@@ -11,7 +11,7 @@
 								 <img src="img/home/01_service_icon.png" alt="icon1"> 
 						  </div>
 						  <div class="col-lg-10 col-md-10 col-sm-9">
-							 <h4 class="pm-services-panel-title">Software Development</h4>
+							 <h4 class="pm-services-panel-title">НА ТВОЕМ КОМПЬЮТЕРЕ</h4>
 								<p class="pm-services-panel-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et placerat dui.</p>
 						  </div>
 					 </div>
@@ -25,7 +25,7 @@
 								 <img src="img/home/02_service_icon.png" alt="icon2"> 
 						  </div>
 						  <div class="col-lg-10 col-md-10 col-sm-9">
-							 <h4 class="pm-services-panel-title">Networking</h4>
+							 <h4 class="pm-services-panel-title">В ЛЮБОЙ ЧАСТИ МИРА</h4>
 								<p class="pm-services-panel-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et placerat dui.</p>
 						  </div>
 					 </div>
@@ -39,7 +39,7 @@
 								 <img src="img/home/03_service_icon.png" alt="icon3"> 
 						  </div>
 						  <div class="col-lg-10 col-md-10 col-sm-9">
-							 <h4 class="pm-services-panel-title">Business Solutions</h4>
+							 <h4 class="pm-services-panel-title">ТО, ЧЕГО ТЫ ЖДАЛА</h4>
 								<p class="pm-services-panel-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et placerat dui.</p>
 						  </div>
 					 </div>

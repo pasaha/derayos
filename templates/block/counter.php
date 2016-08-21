@@ -1,5 +1,5 @@
 <!-- Counter panel -->
-<div class="pm-column-container pm-services-counter pm-containerPadding60 pm-container-border pm-center pm-parallax-panel" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="0">
+<div class="pm-column-container pm-services-counter pm-containerPadding60 pm-container-border pm-center">
 
  <div class="pm-column-container-icon">
 		 <i class="typcn typcn-cog"></i>
