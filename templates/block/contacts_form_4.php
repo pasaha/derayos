@@ -1,5 +1,5 @@
 <!-- Workshop newsletter signup panel -->
-<div id="letter-form" class="pm-column-container pm-workshop-signup pm-containerPadding60 pm-container-border pm-center">
+<div<?php echo $current_bg_inc ?> id="letter-form" class="pm-column-container pm-workshop-signup pm-containerPadding60 pm-container-border pm-center">
 	<div class="pm-column-container-icon">
 		<i class="fa fa-envelope"></i>
 	</div>

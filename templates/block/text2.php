@@ -1,4 +1,4 @@
-<div class="pm-containerPadding-top-60 pm-containerPadding-bottom-40 pm-container-border">
+<div<?php echo $current_bg_inc ?> class="pm-containerPadding-top-60 pm-containerPadding-bottom-40 pm-container-border">
 	
 	<div class="container">
 		<div class="row">

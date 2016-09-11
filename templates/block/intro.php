@@ -1,6 +1,6 @@
 <!-- Intro Panel -->
 
-<div class="pm-column-container pm-containerPadding-bottom-80 pm-containerPadding-top-120 pm-container-border">
+<div<?php echo $current_bg_inc ?> class="pm-column-container pm-containerPadding-bottom-80 pm-containerPadding-top-120 pm-container-border">
 
  <div class="pm-column-container-icon">
 		 <i class="fa fa-users"></i>

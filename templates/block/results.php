@@ -1,4 +1,4 @@
-<div class="container pm-containerPadding-top-20 pm-containerPadding-bottom-20">
+<div<?php echo $current_bg_inc ?> class="container pm-containerPadding-top-20 pm-containerPadding-bottom-20">
 	<div class="row">
 		<div class="col-lg-12 pm-center">
 			<h3 class="pm-primary">ЧТО БУДЕТ ПОСЛЕ  М-К</h3>

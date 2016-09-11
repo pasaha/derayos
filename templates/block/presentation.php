@@ -1,6 +1,6 @@
 <!-- PRESENTATION AREA -->
 
-<div class="pm-presentation-container pm-parallax-panel" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="97">
+<div<?php echo $current_bg_inc ?> class="pm-presentation-container pm-parallax-panel" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="97">
  
 	 <div class="pm-presentation-text-container">
 		 <div class="pm-presentation-text">

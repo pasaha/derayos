@@ -1,4 +1,4 @@
-<div class="pm-fat-footer">
+<div<?php echo $current_bg_inc ?> class="pm-fat-footer">
  
 	 <div class="container">
 		  <div class="row">

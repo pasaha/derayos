@@ -1,5 +1,5 @@
 <!-- Counter panel -->
-<div class="pm-column-container pm-services-counter pm-containerPadding60 pm-container-border pm-center">
+<div<?php echo $current_bg_inc ?> class="pm-column-container pm-services-counter pm-containerPadding60 pm-container-border pm-center">
 
  <div class="pm-column-container-icon">
 		 <i class="typcn typcn-cog"></i>

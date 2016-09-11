@@ -3,11 +3,27 @@
 	  <head>
 		 <meta charset="utf-8">
 		 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
-		 <meta name="description" content="">
 		 <meta name="author" content="">
 		 <link rel="shortcut icon" href="/favicon.ico?1">
 	
 		 <title><?php echo $layout['title'] ?></title>
+
+
+<meta name="mrc__share_title" content="<?php echo $layout['title'] ?>">
+<meta property="og:title" content="<?php echo $layout['title'] ?>">
+<meta name="description" content="<?php echo $layout['description'] ?>">
+<meta property="og:site_name" content="derayos.com">
+<meta property="og:description" content="<?php echo $layout['description'] ?>">
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@derayos" />
+<meta name="twitter:creator" content="@derayos" />
+
+ 
+<meta property="og:image"     content="http://<?php echo $_SERVER['SERVER_NAME'] ?><?php echo $layout['share_image'] ?>">
+<link rel="mrc__share_image"     href="http://<?php echo $_SERVER['SERVER_NAME'] ?><?php echo $layout['share_image'] ?>">
+<link rel="image_src"            href="http://<?php echo $_SERVER['SERVER_NAME'] ?><?php echo $layout['share_image'] ?>">
+
+
 		 
 		 <link href="bootstrap3/css/bootstrap.css" rel="stylesheet">
 	

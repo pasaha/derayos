@@ -1,5 +1,5 @@
 <!-- Services panels -->
-<div class="pm-column-container pm-containerPadding60 pm-mobile-center" style="background-color:#0fa0d5;">
+<div<?php echo $current_bg_inc ?> class="pm-column-container pm-containerPadding60 pm-mobile-center" style="background-color:#420114;">
 
  <div class="container">
 		  <div class="row">

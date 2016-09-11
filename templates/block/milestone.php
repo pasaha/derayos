@@ -1,5 +1,5 @@
 <!-- Milestone panel -->
-<div class="pm-column-container pm-container-border pm-milestone-counter pm-containerPadding60 pm-center pm-parallax-panel" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="0">
+<div<?php echo $current_bg_inc ?> class="pm-column-container pm-container-border pm-milestone-counter pm-containerPadding60 pm-center pm-parallax-panel" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="0">
 
  <div class="pm-column-container-icon">
 		 <i class="typcn typcn-thumbs-up"></i>

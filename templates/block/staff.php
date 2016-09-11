@@ -1,6 +1,6 @@
 <!-- Staff panel -->
 
-<div class="pm-column-container pm-center pm-containerPadding-bottom-100 pm-containerPadding-top-80">
+<div<?php echo $current_bg_inc ?> class="pm-column-container pm-center pm-containerPadding-bottom-100 pm-containerPadding-top-80">
 
  <div class="container">
 		 <div class="row">

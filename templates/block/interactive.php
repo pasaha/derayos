@@ -35,7 +35,7 @@ $data_carousel = array(
 );
 ?>
 <!-- Interactive panels carousel -->
-<div class="pm-column-container pm-containerPadding60">
+<div<?php echo $current_bg_inc ?> class="pm-column-container pm-containerPadding60">
 
  <div class="container">
 		  <div class="row">

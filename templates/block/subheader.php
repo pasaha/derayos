@@ -1,6 +1,6 @@
 <!-- SUBHEADER AREA -->
 
-<div class="pm-presentation-container pm-presentation-container_custom pm-parallax-panel" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="97">
+<div<?php echo $current_bg_inc ?> class="pm-presentation-container pm-presentation-container_custom pm-parallax-panel" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="97">
  
 	 <div class="pm-presentation-text-container">
 		 <div class="pm-presentation-text">
@@ -13,7 +13,7 @@
 
 					<div class="row">
 						<div class="flocoll">
-						  <div id="pm-presentation-owl">
+						  <div class="pm-presentation-owl">
 							  <div class="pm-presentation-post-container">
 								  <div class="pm-presentation-post-date">
 									<div class="pm-presentation-post-date-box">
@@ -34,7 +34,7 @@
 									 </p>
 								  </div>
 								  <div class="pm-presentation-post-img">
-									<img src="img/posts/01_post.jpg" width="475" height="315" alt="post1"> 
+									<img src="/img/posts/01_post.jpg" width="475" height="315" alt="post1"> 
 								  </div>
 							  </div><!-- /pm-presentation-post-container -->
 							</div>

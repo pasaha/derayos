@@ -1,6 +1,6 @@
 <!-- Testimonial carousel -->
 
-<div class="pm-column-container pm-containerPadding-top-40" style="background-color:#ededed;">
+<div<?php echo $current_bg_inc ?> class="pm-column-container pm-containerPadding-top-40" style="background-color:#ededed;">
 
  <div class="container">
 		  <div class="row">

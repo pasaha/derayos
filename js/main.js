@@ -510,7 +510,7 @@
 	   OWL Carousels
 	   ========================================================================== */
 		
-		if ( $('#pm-presentation-owl').length > 0 ){
+		if ( $('.pm-presentation-owl').length > 0 ){
 			
 			//Activate presentation post interaction
 			$('.pm-presentation-post-container').PMHoverPanel({
@@ -521,7 +521,7 @@
 			});
 			
 			//Activate Own Carousel
-			$("#pm-presentation-owl").owlCarousel({
+			$(".pm-presentation-owl").owlCarousel({
 			
 				 // Most important owl features
 				items : 3,

@@ -35,8 +35,20 @@ $('.js-ajaxform').each(function() {
 	});
 });
 
+$('.js-overlay-video').each(function() {
+	var $frm = $(this);
+	$frm.click(function(e) {
+			var urlCoded = this.getAttribute('data-frame');
+
+			$('.js-overlay').addClass('overlay_video').show().find('.js-overlay__content').html(urlCoded);
+
+		e.preventDefault();
+	});
+});
+
+
 $('.js-overlay__close').click(function(e) {
-	$(this).parents('.js-overlay').hide();
+	$(this).parents('.js-overlay').removeClass('overlay_video').hide().find('.js-overlay__content').html('');
 })
 
 </script>

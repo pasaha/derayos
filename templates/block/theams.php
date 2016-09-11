@@ -1,4 +1,4 @@
-<div class="container pm-containerPadding-top-80 pm-containerPadding-bottom-60">
+<div<?php echo $current_bg_inc ?> class="container pm-containerPadding-top-80 pm-containerPadding-bottom-60">
 <div class="row">
 		<div class="col-lg-12">
 			<h3> Темы мастер-класса</h3>
