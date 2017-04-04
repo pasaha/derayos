@@ -2,21 +2,27 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
-				<h3>Почему этот мастер-класс не похож на другие женские тренинги </h3>
+				<h3>Сравним обычных женщин с женщинами живущими по принципу ментального вызова</h3>
 			 </div>
 			 <br><br>
 			 <div class="col-lg-6 col-md-6 col-sm-6 pm-column-spacing">
 				<img src="img/about-us/01_icon.jpg" class="img-responsive pm-inline" alt="icon"> 
-				  <h3 class="pm-column-title">Leaders in Software Design</h3>
+				  <h3 class="pm-column-title">Обычные женщины</h3>
 				  <div class="pm-short-divider"></div>
-				  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc malesuada sed orci sit amet pulvinar. Sed scelerisque, mi non molestie ultrices, est lorem congue sapien, eget pulvinar mauris urna eget nunc. Fusce enim augue, convallis non massa sed, feugiat sus icula elit lectus nec diam. Nulla tempor tincidunt interdum. Fusce condimentum massa nec feugiat porta.</p>
+				  <p>Ищет безопасности</p>
+          <p>В ее мире дефицит настоящих мужчин</p>
+				  <p>Она боится одиночества</p>
+				  <p>Ей не хватает любви и заботы</p>                    
 			 </div>
 			 
 			 <div class="col-lg-6 col-md-6 col-sm-6 pm-column-spacing">
 				<img src="img/about-us/02_icon.jpg" class="img-responsive pm-inline" alt="icon"> 
-				  <h3 class="pm-column-title">Committment to Education</h3>
+				  <h3 class="pm-column-title">Женщина - Ментальный вызов</h3>
 				  <div class="pm-short-divider"></div>
-				  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc malesuada sed orci sit amet pulvinar. Sed scelerisque, mi non molestie ultrices, est lorem congue sapien, eget pulvinar mauris urna eget nunc. Fusce enim augue, convallis non massa sed, feugiat sus icula elit lectus nec diam. Nulla tempor tincidunt interdum. Fusce condimentum massa nec feugiat porta.</p>
+				  <p>Ищет вкус жизни</p>
+          <p>Лучшие мужчины готовы сражаться за право быть с ней</p>
+				  <p>Одиночество дарует наслаждение</p>
+				  <p>У нее всегда много любви </p> 
 			 </div>
 		</div>
 

@@ -15,7 +15,7 @@
 						 <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
 							 
 							 <div class="pm-statistic-box-container wow fadeInUp animated" data-wow-delay="0.2s" data-wow-offset="50" data-wow-duration="1s">
-									 <h3>55%</h3>
+									 <h3>шаг 1</h3>
 									 <p>reduction in development costs</p>
 									 <img src="img/home/man-icon.png" class="img-responsive" alt="reduction in development costs">
 							 </div>
@@ -24,7 +24,7 @@
 						  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
 							 
 								<div class="pm-statistic-box-container offset wow fadeInUp animated" data-wow-delay="0.4s" data-wow-offset="50" data-wow-duration="1s">
-									 <h3>72%</h3>
+									 <h3>шаг 2</h3>
 									 <p>increase in quality assurance</p>
 									 <img src="img/home/man-icon.png" class="img-responsive" alt="increase in quality assurance">
 								</div>
@@ -33,7 +33,7 @@
 						  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
 							 
 								<div class="pm-statistic-box-container wow fadeInUp animated" data-wow-delay="0.6s" data-wow-offset="50" data-wow-duration="1s">
-									 <h3>85%</h3>
+									 <h3>Шаг 3</h3>
 									 <p>increase in development time</p>
 									 <img src="img/home/man-icon.png" class="img-responsive" alt="increase in development time">
 								</div>
@@ -42,12 +42,14 @@
 						  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
 							 
 								<div class="pm-statistic-box-container offset wow fadeInUp animated" data-wow-delay="0.4s" data-wow-offset="50" data-wow-duration="1s">
-									 <h3>72%</h3>
+									 <h3>Шаг 4</h3>
 									 <p>increase in quality assurance</p>
 									 <img src="img/home/man-icon.png" class="img-responsive" alt="increase in quality assurance">
 								</div>
 								
 						  </div>
+              
+             
 
 					 </div>
 					 

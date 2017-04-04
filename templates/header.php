@@ -75,8 +75,8 @@
 	  
 	  <?php// include 'templates/includes/color_selector.php'; ?>
 
-		<div id="pm_layout_wrapper" class="pm-full-mode"><!-- Use wrapper for wide or boxed mode -->
-			<?php include 'templates/includes/pm-header-info.php'; ?>
+		<div id="pm_layout_wrapper" class="pm-full-mode"><!-- Use wrapper for wide or boxed mode-->
+			<?php include 'templates/includes/pm-header-info.php'; ?>  
 			<header>
 				<div class="container pm-header-container">
 						 <div class="row">
@@ -85,7 +85,7 @@
 								
 								<?php if ($layout && $layout['logo']){ ?>
 								<div class="pm-header-logo-container">
-									<a href="/"><img height="67" width="218" src="<?php echo $layout['logo'] ?>" class="img-responsive" alt="Quantum Theme"></a>
+									<a href="/"><img height="67" width="116" src="<?php echo $layout['logo'] ?>" class="img-responsive" alt="Elena de Rayos - Ментальный вызов"></a>
 								</div>
 								<?php } ?>
 								

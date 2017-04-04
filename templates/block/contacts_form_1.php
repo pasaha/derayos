@@ -6,12 +6,18 @@
 	<div class="container">
 		 <div class="row">
 				<div class="col-lg-12">
-					<p class="pm-newsletter-form-text">Можешь пройти «М-К»
-				  <br>в любой точке мира где есть Интернет
+        <p class="pm-staff-profile-name"> "Наш самый глубокий страх – быть большими и сильными. Наш свет, 
+          а не наша тьма пугает нас больше всего. Мы спрашиваем себя: кто я такой, 
+          чтобы быть талантливым, удивительным, прекрасным? На самом деле – кто мы такие, 
+          чтобы не быть?" </p>
+				 <p class="pm-staff-profile-name">
+          Марианн Вильямсон
+
+				  <br>
 				  </p>
-					<div class="pm-workshop-newsletter-form-container">
+					<!--div class="pm-workshop-newsletter-form-container">
 						<?php include 'templates/includes/form.php'; ?>
-					</div>
+					</div-->
 				</div>
 		  </div>
 	 </div>

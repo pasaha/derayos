@@ -4,8 +4,10 @@
  
 	 <div class="pm-presentation-text-container">
 		 <div class="pm-presentation-text">
+        <p>ОДНОДНЕВНЫЙ ОНЛАЙН-ТРЕНИНГ</p>
 				<h1>МЕНТАЛЬНЫЙ ВЫЗОВ</h1>
-				<p>Узнайте подробности в течение 10 минут</p>
+				<p>Вся правда о том, почему твой любимый не ценит, не любит, не уважает тебя.  </p>
+        <p>Как оставаясь самой собой получить его любовь и уважение? </p> 
 		  </div>
 	 
 			<div class="pm-column-container pm-containerPadding60 pm-mobile-center">
@@ -17,20 +19,24 @@
 							  <div class="pm-presentation-post-container">
 								  <div class="pm-presentation-post-date">
 									<div class="pm-presentation-post-date-box">
-										  <p class="pm-month">Сен</p>
-										  <p class="pm-day">01</p>
+										  <p class="pm-month">Ноября</p>
+										  <p class="pm-day">29</p>
 									 </div>
 								  </div><!-- /pm-presentation-post-date -->
 								  <div class="pm-presentation-post-title">
-									<p>МЕНТАЛЬНЫЙ ВЫЗОВ</p>
+									<p>Начало в 20:00 по МСК</p>
 								  </div>
-								  <div class="pm-presentation-post-excerpt">
-									<p>Мастер-класс по психологии общения</p>
-								  </div>
+								  <!--div class="pm-presentation-post-excerpt">
+									<p> </p>
+								  </div-->
 								  <div class="pm-presentation-post-hover-container">
 									<!--<p class="pm-presentation-post-hover-title">protected posts</p>-->
 									 <p class="pm-presentation-post-hover-excerpt">
-									  На нашем мастер классе вы научитесь мастерклассить, перемастерклассивать и перевыпермастерклассивать лучше других мастеркассеров!
+									  "Наш самый глубокий страх – быть большими и сильными. Наш свет, 
+          а не наша тьма пугает нас больше всего. Мы спрашиваем себя: кто я такой, 
+          чтобы быть талантливым, удивительным, прекрасным? На самом деле – кто мы такие, 
+          чтобы не быть?" 
+ 
 									 </p>
 								  </div>
 								  <div class="pm-presentation-post-img">
@@ -46,8 +52,8 @@
 								  <li class="pm-career-opening-widget-post">
 										<i class="fa fa-map-marker"></i>
 										<div class="pm-career-opening-widget-post-info">
-											 <p>Участие во встрече <br> с основателями БМ в Москве</p>
-											 <a>13 990 рублей</a>
+											 <p>Участвуй в любом месте мира, где есть интернет</p>
+											 <a> от 390 до 3 900 рублей</a>
 										</div>
 								  </li>
 								  <!-- /post -->
@@ -55,8 +61,8 @@
 								  <li class="pm-career-opening-widget-post">
 										<i class="fa fa-laptop"></i>
 										<div class="pm-career-opening-widget-post-info">
-											 <p>Трансляция встречи<br> в других городах </p>
-											 <a>от 10 990 рублей</a>
+											 <p>Основная часть + VIP-блок</p>
+											 <!--a>от 2 990 рублей</a-->
 										</div>
 								  </li>
 								  <!-- /post -->

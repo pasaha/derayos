@@ -6,7 +6,7 @@
 		 <div class="row">
 		  
 			 <div class="col-lg-12">
-				 <h3>Кому необходим этот мастер-класс</h3>
+				 <h3>Для кого этот онлайн тренинг?</h3>
 				 <h6></h6>
 				</div>                	
 			 
@@ -25,10 +25,9 @@
 						  
 						  <div class="pm-staff-profile-details">
 								
-								<p class="pm-staff-profile-name">Вы только ищете мужчину мечты</p>
-								<p class="pm-staff-profile-title">Lead Software Engineer</p>
-								
-								<p class="pm-staff-profile-bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et placerat dui. In posuere metus et elit placerat tristique. Maecenas eu est in sem ullamcorper tincidunt. </p>
+								<p class="pm-staff-profile-name">"Мой мужчина меня не слышит и не воспринимает всерьёз"</p>
+								<p class="pm-staff-profile-title">Как по-настоящему заинтересовать мужчину?</p>
+                <p class="pm-staff-profile-bio">Кто такие "трудные" мужчины? И как вести себя с ними?</p>
 								
 						  </div>
 						  
@@ -51,11 +50,9 @@
 						  
 						  <div class="pm-staff-profile-details">
 								
-								<p class="pm-staff-profile-name">Вы недавно встретили мужчину мечты</p>
-								<p class="pm-staff-profile-title">Lead Software Designer</p>
-								
-								<p class="pm-staff-profile-bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et placerat dui. In posuere metus et elit placerat tristique. Maecenas eu est in sem ullamcorper tincidunt. </p>
-								
+								<p class="pm-staff-profile-name">"Мужчины которые мне нравятся, не хотят быть со мной"</p>
+								<p class="pm-staff-profile-title">Как вызывать в мужчине желание сближаться с тобой?</p>
+								<p class="pm-staff-profile-bio">Как правильно войти в отношения с самого начала?</p>								
 						  </div>
 						  
 					 </div>
@@ -77,11 +74,10 @@
 						  
 						  <div class="pm-staff-profile-details">
 								
-								<p class="pm-staff-profile-name">Вы давно в отношениях с ним, но</p>
-								<p class="pm-staff-profile-title">Front-end Developer</p>
-								
-								<p class="pm-staff-profile-bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et placerat dui. In posuere metus et elit placerat tristique. Maecenas eu est in sem ullamcorper tincidunt. </p>
-								
+								<p class="pm-staff-profile-name">"Я многим жертвую ради него, но ничего не получаю взамен"</p>
+								<p class="pm-staff-profile-title">Как оставаться для него желанной и много лет спустя?</p>
+								<p class="pm-staff-profile-bio">Как быть женщиной, которя не вызывает у него привыкания?</p>								
+
 						  </div>
 						  
 					 </div>

@@ -15,8 +15,8 @@
 						 </div>
 						 <div class="col-lg-9 col-md-9 col-sm-9 col-xs-10">
 							<div class="pm-icon-box-content">
-								<h6 class="pm-primary"><strong>Retina Ready</strong></h6>
-								<p>Cras posuere erat pharetra tellus, nec error risus accumsan quis viverra vitae.</p>
+								<h6 class="pm-primary"><strong>Как </strong></h6>
+								<p>Как манипулипуют женским </p>
 							  </div>
 						 </div>
 					</div>
@@ -37,7 +37,7 @@
 						 </div>
 						 <div class="col-lg-9 col-md-9 col-sm-9 col-xs-10">
 							<div class="pm-icon-box-content">
-								<h6 class="pm-primary"><strong>Typicon Support</strong></h6>
+								<h6 class="pm-primary"><strong>Что такое МВ?</strong></h6>
 								<p>Cras posuere erat pharetra tellus, nec error risus accumsan quis viverra vitae.</p>
 							  </div>
 						 </div>
@@ -59,7 +59,7 @@
 						 </div>
 						 <div class="col-lg-9 col-md-9 col-sm-9 col-xs-10">
 							<div class="pm-icon-box-content">
-								<h6 class="pm-primary"><strong>FontAwesome 3 Support</strong></h6>
+								<h6 class="pm-primary"><strong>Власть</strong></h6>
 								<p>Cras posuere erat pharetra tellus, nec error risus accumsan quis viverra vitae.</p>
 							  </div>
 						 </div>
@@ -81,7 +81,7 @@
 						 </div>
 						 <div class="col-lg-9 col-md-9 col-sm-9 col-xs-10">
 							<div class="pm-icon-box-content">
-								<h6 class="pm-primary"><strong>Bootstrap 3 Framework</strong></h6>
+								<h6 class="pm-primary"><strong>Перезапуск отношений</strong></h6>
 								<p>Cras posuere erat pharetra tellus, nec error risus accumsan quis viverra vitae.</p>
 							  </div>
 						 </div>
@@ -103,7 +103,7 @@
 						 </div>
 						 <div class="col-lg-9 col-md-9 col-sm-9 col-xs-10">
 							<div class="pm-icon-box-content">
-								<h6 class="pm-primary"><strong>Private Members Area</strong></h6>
+								<h6 class="pm-primary"><strong>Магнит</strong></h6>
 								<p>Cras posuere erat pharetra tellus, nec error risus accumsan quis viverra vitae.</p>
 							  </div>
 						 </div>
@@ -125,7 +125,7 @@
 						 </div>
 						 <div class="col-lg-9 col-md-9 col-sm-9 col-xs-10">
 							<div class="pm-icon-box-content">
-								<h6 class="pm-primary"><strong>Ecommerce Support</strong></h6>
+								<h6 class="pm-primary"><strong>Жизнь</strong></h6>
 								<p>Cras posuere erat pharetra tellus, nec error risus accumsan quis viverra vitae.</p>
 							  </div>
 						 </div>
@@ -147,7 +147,7 @@
 						 </div>
 						 <div class="col-lg-9 col-md-9 col-sm-9 col-xs-10">
 							<div class="pm-icon-box-content">
-								<h6 class="pm-primary"><strong>W3C Valid</strong></h6>
+								<h6 class="pm-primary"><strong>Роли</strong></h6>
 								<p>Cras posuere erat pharetra tellus, nec error risus accumsan quis viverra vitae.</p>
 							  </div>
 						 </div>
@@ -169,7 +169,7 @@
 						 </div>
 						 <div class="col-lg-9 col-md-9 col-sm-9 col-xs-10">
 							<div class="pm-icon-box-content">
-								<h6 class="pm-primary"><strong>HTML5 Ready</strong></h6>
+								<h6 class="pm-primary"><strong>Желания</strong></h6>
 								<p>Cras posuere erat pharetra tellus, nec error risus accumsan quis viverra vitae.</p>
 							  </div>
 						 </div>
@@ -191,7 +191,7 @@
 						 </div>
 						 <div class="col-lg-9 col-md-9 col-sm-9 col-xs-10">
 							<div class="pm-icon-box-content">
-								<h6 class="pm-primary"><strong>CSS3 Accelerated</strong></h6>
+								<h6 class="pm-primary"><strong>Цели</strong></h6>
 								<p>Cras posuere erat pharetra tellus, nec error risus accumsan quis viverra vitae.</p>
 							  </div>
 						 </div>
@@ -200,6 +200,6 @@
 			  <!-- Icon box end -->
 			  
 		 </div>
-	
+  
 	</div>
 </div>

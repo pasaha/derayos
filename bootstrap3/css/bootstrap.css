@@ -350,6 +350,12 @@ img {
   max-width: 100%;
 }
 
+.pm-header-logo-container .img-responsive {
+  display: block;
+  height: 70px;
+  width: auto;
+}
+
 .img-rounded {
   border-radius: 6px;
 }

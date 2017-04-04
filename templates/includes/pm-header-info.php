@@ -1,6 +1,6 @@
 <div class="pm-header-info">
 
- <div class="container pm-header-info-container">
+ <!--div class="container pm-header-info-container">
 		  
 		  <div class="row">
 				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
@@ -16,6 +16,6 @@
 				</div>
 		  </div>
 		  
-	 </div>
+	 </div-->
 	 
 </div><!-- /pm-header-info -->

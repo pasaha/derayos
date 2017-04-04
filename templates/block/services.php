@@ -11,8 +11,8 @@
 								 <img src="img/home/01_service_icon.png" alt="icon1"> 
 						  </div>
 						  <div class="col-lg-10 col-md-10 col-sm-9">
-							 <h4 class="pm-services-panel-title">НА ТВОЕМ КОМПЬЮТЕРЕ</h4>
-								<p class="pm-services-panel-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et placerat dui.</p>
+							 <h4 class="pm-services-panel-title">УЧАСТВУЙ НЕ ОТХОДЯ ОТ КОМПЬЮТЕРА</h4>
+								<p class="pm-services-panel-text">С ЧАШЕЧКОЙ АРОМАТНОГО ЧАЯ, ЗАВЕРНУВШИСЬ В ЛЮБИМЫЙ ПЛЕД</p>
 						  </div>
 					 </div>
 					 
@@ -25,8 +25,8 @@
 								 <img src="img/home/02_service_icon.png" alt="icon2"> 
 						  </div>
 						  <div class="col-lg-10 col-md-10 col-sm-9">
-							 <h4 class="pm-services-panel-title">В ЛЮБОЙ ЧАСТИ МИРА</h4>
-								<p class="pm-services-panel-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et placerat dui.</p>
+							 <h4 class="pm-services-panel-title">В ЛЮБОЙ ТОЧКЕ МИРА</h4>
+								<p class="pm-services-panel-text">ЕСТЬ КОМПЬЮТЕР С ДОСТУПОМ В ИНТЕРНЕТ</p>
 						  </div>
 					 </div>
 					 
@@ -39,8 +39,8 @@
 								 <img src="img/home/03_service_icon.png" alt="icon3"> 
 						  </div>
 						  <div class="col-lg-10 col-md-10 col-sm-9">
-							 <h4 class="pm-services-panel-title">ТО, ЧЕГО ТЫ ЖДАЛА</h4>
-								<p class="pm-services-panel-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et placerat dui.</p>
+							 <h4 class="pm-services-panel-title">ОТВЕТЫ НА САМЫЕ ВАЖНЫЕ ВОПРОСЫ</h4>
+								<p class="pm-services-panel-text"> + ПЕРСОНАЛЬНЫЙ НАБОР РЕЦЕПТОВ ПОДХОДЯЩИХ ИМЕННО ТЕБЕ</p>
 						  </div>
 					 </div>
 					 

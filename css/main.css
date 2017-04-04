@@ -8,6 +8,14 @@ tool@charset "utf-8";
 	width:100%;
 }
 
+
+.price-text {
+	color:#8471b3;
+	font-family:'Open sans';
+	font-weight:1900;
+	text-decoration:none !important;
+  }
+
 /* 1170px boxed mode - requires customs media queries for responsivesness */
 .pm-boxed-mode {
 	width:1170px;
@@ -42,7 +50,7 @@ body {
 }
 
 a {
-	color:#0fa0d5;
+	color:#584c9e;
 	font-family:'Open sans';
 	font-weight:500;
 	text-decoration:none !important;
@@ -123,7 +131,7 @@ h2 {
 	font-size:30px;
 	font-family:'Lato';
 	font-weight:300;
-	color:#0fa0d5;
+	color:#584c9e;
 	margin-top:0px;
 	margin-bottom:20px;
 	padding:0px;
@@ -133,7 +141,7 @@ h3 { /* General header */
 	font-size:30px;
 	font-family:'Open Sans';
 	font-weight:100;
-	color:#0fa0d5;
+	color:#362a76;
 	margin-bottom:14px;
 	margin-top:0px;
 }
@@ -289,7 +297,7 @@ h6 {
 }
 
 .pm-primary {
-	color:#0fa0d5 !important;
+	color:#ffa82d !important;
 }
 
 .pm-secondary {
@@ -351,7 +359,7 @@ h6 {
 }
 
 .pm-column-title {
-	color: #0fa0d5;
+	color: #8471b3;
     font-family: 'Open Sans';
     font-size: 24px;
     font-weight: 100;
@@ -363,12 +371,12 @@ h6 {
 }
 
 .pm-container-border {
-	border-top:7px solid #EA5818;
+	border-top:7px solid #584c9e;
 }
 
 .pm-column-container-icon {
 	background-color:white;
-	border:6px solid #EA5818;
+	border:6px solid #584c9e;
 	width:70px;
 	height:70px;
 	text-align:center;
@@ -386,7 +394,7 @@ h6 {
 .pm-column-container-icon i {
 	font-size:28px;
 	font-family:'FontAwesome';
-	color:#0fa0d5;
+	color:#ffa82d;
 }
 
 .pm-column-container-icon i.typcn {
@@ -472,10 +480,10 @@ h6 {
 	margin:0px;
 	padding:0px;
 	
-	border-right:35px solid #EA5818;
+	border-right:35px solid #ffa82d;
     border-top:35px solid transparent;
     border-left:35px solid transparent;
-    border-bottom:35px solid #EA5818;
+    border-bottom:35px solid #ffa82d;
 	
 	transition:all 0.3s ease 0s;
 	-moz-transition:all 0.3s ease 0s;
@@ -590,7 +598,7 @@ header.fixed {
 
 .pm-header-info {
 	background-color:transparent;
-	height:47px;
+	height:7px;
 	position:relative;
 	z-index:999;
 }
@@ -704,7 +712,7 @@ header.fixed {
 	display:block;
 	overflow:hidden;
 	text-transform:uppercase;
-	background-color:#467192;
+	background-color:#362a76;
 	padding:0px 0px 0 10px;
 	line-height:30px;
 	margin:0px 0px 25px 0px;
@@ -713,7 +721,7 @@ header.fixed {
 	display:block;
 	padding:8px;
 	float:right;
-	background-color:#ea5818;	
+	background-color:#ffa82d;	
 	font-size:14px;
 	height:inherit;
 }
@@ -745,7 +753,7 @@ footer {
 .pm-footer-social-info-container h6, .pm-footer-subscribe-container h6 {
 	font-family:'Open Sans';
 	text-transform:uppercase;
-	color:#ea5818;
+	color:#584c9e;
 	font-size:24px;
 	font-weight:700;
 	margin:0 0 10px 0;
@@ -786,7 +794,7 @@ footer {
 
 .pm-footer-copyright {
 	width:100%;
-	background-color:#0fa0d5;
+	background-color:#362a76;
 	padding:20px 0;
 }
 
@@ -801,7 +809,7 @@ footer {
 }
 
 .pm-footer-copyright a {
-	color:#ea5818;	
+	color:#ffa82d;	
 }
 
 .pm-footer-social-icons li:before {
@@ -832,7 +840,7 @@ footer {
 	display:block;
 	text-align:center;
 	padding:14px;
-	background-color:#0fa0d5;
+	background-color:#8471b3;
 	color:white;
 	font-size:34px;
 	width:60px;
@@ -943,7 +951,7 @@ footer {
 	line-height:50px;
 	font-family:'Open Sans';
 	font-weight:700;
-	color:#0fa0d5;
+	color:#362a76;
 	text-transform:uppercase;
 	font-size:13px;
 	
@@ -1065,7 +1073,7 @@ footer {
     padding: 0 !important;
 }
 .pm-career-opening-widget-posts-sub {
-	margin-top: 100px;
+	margin-top: 20px;
 }
 .pm-career-opening-widget-posts-sub .pm-workshop-newsletter-form-container {
 	margin-left: 0;
@@ -1150,7 +1158,7 @@ footer {
 .pm-career-opening-widget-post i {
 	display:inline-block;
 	padding:15px;
-	background-color:#420114;
+	background-color:#584c9e;
 	float:left;
 	color:white;
 	font-size:24px;
@@ -1167,15 +1175,15 @@ footer {
 .pm-career-opening-widget-post p {
     color: white;
     font-family: 'Open sans';
-    font-size: 14px;
+    font-size: 18px;
     margin: 0;
     padding: 0;
 }
 
 .pm-career-opening-widget-post a {
 	text-decoration:none;
-	font-size:14px;
-	color:#420114;
+	font-size:20px;
+	color:#8471b3;
 	text-transform:uppercase;	
 	font-family:'Open sans';
 	font-weight:700;
@@ -1227,7 +1235,7 @@ footer {
 .pm-workshop-widget-post i {
 	display:inline-block;
 	padding:15px;
-	background-color:#ea5818;
+	background-color:#584c9e;
 	float:left;
 	color:white;
 	font-size:24px;
@@ -1242,7 +1250,7 @@ footer {
 }
 
 .pm-workshop-widget-post p {
-    color: #ea5818;
+    color: #ffa82d;
     font-family: 'Open sans';
     font-size: 12px;
     margin: 0;
@@ -1295,11 +1303,11 @@ footer {
 
 .pm-presentation-text-container {
 	width:100%;
-	height:335px;
+	height:660px;
 	position:absolute;
-	top:25%;
+	top:22%;
 	text-align:center;
-	background-color:rgba(0, 0, 0, .5);
+	background-color:rgba(0, 0, 0, .6);
 	
 }
 
@@ -1373,7 +1381,7 @@ footer {
 .pm-presentation-post-date {
 	width:290px;
 	height:82px;
-	background-color:#420114;
+	background-color:#584c9e;
 	position:absolute;
 	left:210px;
 	top:0;
@@ -1440,7 +1448,7 @@ footer {
 	position:absolute;
 	left:0;
 	bottom:70px;
-	background-color:#420114;
+	background-color:#8471b3;
 	width:auto;
 	min-width:100px;	
 	z-index:101;
@@ -1697,7 +1705,7 @@ footer {
 
 /* Statistic box */
 .pm-statistic-box-container {
-	background-color:#0fa0d5;
+	background-color:#8471b3;
 	width:109px;
 	height:auto;
 	padding:10px 10px 25px 10px;
@@ -1710,12 +1718,12 @@ footer {
 }
 
 .pm-statistic-box-container.offset {
-	background-color:#EA5818;
+	background-color:#ffa82d;
 }
 
 .pm-statistic-box-container h3 {
 	font-family:'Roboto';
-	font-size:36px;
+	font-size:28px;
 	color:white;
 	font-weight:bold;
 }
@@ -1862,7 +1870,7 @@ footer {
 
 /* Workshop Newsletter form */
 .pm-workshop-signup {
-	background-image:url(../img/home/newsletter-background.jpg);
+	background-image:url(../img/home/1.jpg);
 }
 
 .pm-newsletter-form-text {
@@ -1896,7 +1904,7 @@ footer {
 	font-family:'Open Sans';
 	text-transform:capitalize;
 	color:white;
-	background-color:#EA5818;
+	background-color:#ffa82d;
 	border:0px solid black;
 	padding:8px 17px;
 	margin-left:-3px;
@@ -1926,6 +1934,21 @@ footer {
 /* Staff profile column */
 .pm-staff-profile-container {
 	width:auto;
+	height:476px;
+	background-color:#f5f5f5;
+	text-align:center;
+	padding:40px 20px;
+	margin:15px 0 10px 0;
+	
+	border-radius:80px 0 50px 0;
+	-moz-border-radius:80px 0 50px 0;
+	-webkit-border-radius:80px 0 50px 0;
+	-o-border-radius:80px 0 50px 0;
+}
+
+
+.pm-staff-profile-container111 {
+	width:315%;
 	height:476px;
 	background-color:#f5f5f5;
 	text-align:center;
@@ -2002,7 +2025,7 @@ footer {
 	font-size:24px;
 	font-family:'Open Sans';
 	text-transform:capitalize;
-	color:#0fa0d5;	
+	color:#584c9e;	
 }
 .pm-staff-profile-title {
 	font-size:14px;
@@ -2137,14 +2160,14 @@ footer {
 	min-width:100px;
 	line-height:16px;
 	height:26px;
-	background-color:#EA5818;
+	background-color:#ffa82d;
 	padding:5px 10px;
 	position:absolute;
 	right:0;
 	top:0;	
 	
 	font-family:'Open sans';
-	font-size:12px;
+	font-size:16px;
 	color:white;
 	font-weight:300;
 	text-transform:uppercase;
@@ -2270,7 +2293,7 @@ footer {
 	height: 0; 
 	border-top: 10px solid transparent;
 	border-bottom: 10px solid transparent; 
-	border-right:10px solid #EA5818; 
+	border-right:10px solid #ffa82d; 
 	position: absolute;
     left: 5px;
     top: 100px;
@@ -2283,7 +2306,7 @@ footer {
 	height:auto;
 	width:auto;	
 	max-width:520px;
-	background-color:#EA5818;
+	background-color:#ffa82d;
 	margin-top:80px;
 }
 
@@ -2300,7 +2323,7 @@ footer {
 }
 
 .pm-testimonial-text-box {
-    background-color: #0fa0d5;
+    background-color: #8471b3;
     float: left;
     padding: 15px 20px;
     width: 470px;
@@ -2320,7 +2343,7 @@ footer {
 	font-size:14px !important;
 	font-style:normal !important;
 	font-weight:700 !important;
-	color:#EA5818 !important;
+	color:#ffa82d !important;
 	line-height:0px !important;
 	margin-top:20px !important;
 	text-transform:uppercase;
@@ -3783,7 +3806,7 @@ footer {
 }
 
 .pm-icon-bundle i {
-    color: #0fa0d5;
+    color: #362a76;
     display: block;
     font-size: 50px;
     margin-bottom: 15px;
@@ -4210,7 +4233,7 @@ footer {
     font-weight: 600;
 	font-size:22px;
     text-transform: uppercase !important;
-	background-color:#0fa0d5;
+	background-color:#584c9e;
 	padding:15px;
 	color:white;
 }
@@ -4223,11 +4246,11 @@ footer {
 .pm-pricing-table-header i {
 	font-weight: 600;
 	font-size:48px;	
-	color:#0FA0D5;
+	color:#362a76;
 }
 
 .pm-pricing-table-header h1 {
-    color:#EA5818;
+    color:#ffa82d;
     font-size: 48px;
     font-weight: 300;
     margin-bottom: 0;
